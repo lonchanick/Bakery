@@ -1,0 +1,15 @@
+﻿@page "{id:int}"
+@model Bakery.Pages.OrderModel
+@{
+    ViewData["Title"] = "Place your order";
+}
+<div class="progress mb-3" style="height:2.5rem;">
+    <div class="progress-bar w-50" style="font-size:1.5rem;" role="progressbar">Select Item</div>
+</div>
+<div class="row">
+    <div class=" col-3">
+        <h3>@Model.Product.Name</h3>
+        <img class="img-fluid" src="/images/products/@Model.Product.ImageName" title="@Model.Product.Name" />
+        <p>@Model.Product.Description</p>
+    </div>
+</div>
