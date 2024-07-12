@@ -252,3 +252,4 @@ C:\.NET FOLDER\Projects\LearnRazorpages.com\Bakery\obj\Debug\net8.0\refint\Baker
 C:\.NET FOLDER\Projects\LearnRazorpages.com\Bakery\obj\Debug\net8.0\Bakery.pdb
 C:\.NET FOLDER\Projects\LearnRazorpages.com\Bakery\obj\Debug\net8.0\Bakery.genruntimeconfig.cache
 C:\.NET FOLDER\Projects\LearnRazorpages.com\Bakery\obj\Debug\net8.0\ref\Bakery.dll
+C:\.NET FOLDER\Projects\LearnRazorpages.com\Bakery\obj\Debug\net8.0\Bakery.sourcelink.json
