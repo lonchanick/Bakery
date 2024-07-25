@@ -113,6 +113,10 @@
       "PackagePath": "staticwebassets\\images\\products\\sliced-bread.jpg"
     },
     {
+      "Id": "C:\\.NET FOLDER\\Projects\\LearnRazorpages.com\\Bakery\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
+    },
+    {
       "Id": "C:\\.NET FOLDER\\Projects\\LearnRazorpages.com\\Bakery\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

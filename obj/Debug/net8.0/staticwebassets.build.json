@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "22/D+ER2sCfU61bckV8i/wqy2/hXipLw1hOU1LD2UeM=",
+  "Hash": "kT9BtQHIu3F9qUWbG2+GArWHNT0m13KwCpSQjq8uFPA=",
   "Source": "Bakery",
   "BasePath": "_content/Bakery",
   "Mode": "Default",
@@ -566,6 +566,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\products\\sliced-bread.jpg"
+    },
+    {
+      "Identity": "C:\\.NET FOLDER\\Projects\\LearnRazorpages.com\\Bakery\\wwwroot\\js\\order.js",
+      "SourceId": "Bakery",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\.NET FOLDER\\Projects\\LearnRazorpages.com\\Bakery\\wwwroot\\",
+      "BasePath": "_content/Bakery",
+      "RelativePath": "js/order.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\order.js"
     },
     {
       "Identity": "C:\\.NET FOLDER\\Projects\\LearnRazorpages.com\\Bakery\\wwwroot\\js\\site.js",

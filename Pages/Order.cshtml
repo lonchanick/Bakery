@@ -2,6 +2,7 @@
 @model Bakery.Pages.OrderModel
 @section scripts{
     <partial name="_ValidationScriptsPartial" />
+    <script src="~/js/order.js" asp-asp-append-version="true"></script>
 }
 @{
     ViewData["Title"] = "Place your order";
@@ -33,5 +34,9 @@
     <textarea asp-for="ShippingAddress" class="form-control"></textarea>
     <span asp-validation-for="ShippingAddress"></span>
   </div>
+
+    <input type="hidden" asp-for="UnitPrice" value="@Model.Product.Price"/>
+  <div class="mb-3"> Total cost: <span id="orderTotal">@Model.Product.Price.ToString("c")</span></div>
+
   <button type="submit" class="btn bn-sm btn-primary">Place order</button>
 </form>
