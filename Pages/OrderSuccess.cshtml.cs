@@ -1,12 +1,10 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace Bakery.Pages
+namespace Bakery.Pages;
+public class OrderSuccessModel : PageModel
 {
-    public class OrderSuccessModel : PageModel
+    public void OnGet()
     {
-        public void OnGet()
-        {
-        }
     }
 }
